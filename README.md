@@ -10,7 +10,7 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/emmabase_" target="blank"><img src="https://img.shields.io/twitter/follow/emmabase_?logo=twitter&style=for-the-badge" alt="emmabase_" /></a> </p> -->
 
-👨🏻‍💻  About Me
+<h3 align="left">👨🏻‍💻  About Me </h3>
 
 - ✅   I am a software craftsman, I love to build products that meets customers' expectations.
 
