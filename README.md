@@ -1,8 +1,7 @@
 ###
 <h1 align="center">Hi 👋, I'm Emmanuel.</h1>
-<p align="center">A <strong>Software developer</strong> very passionate about backend development</p>
+<p align="center">A <strong>Software products developer</strong> very passionate about backend development. I am driven by a desire to make a meaningful impact, whether it's streamlining processes, enhancing user experiences, or solving critical problems.</p>
 <!-- <h3 align="center">Fullstack Developer</h3> -->
-
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=emmabase&label=Profile%20views&color=0e75b6&style=flat" alt="emmabase" /> </p> -->
 
